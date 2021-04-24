@@ -1,0 +1,23 @@
+  body {
+    background-color: #ccf2f4;
+  }
+  hr {
+    border-color: grey;
+    border-width: 5px;
+    border-style: dashed solid;
+    width: 5%;
+  }
+  p {
+    text-align: center;
+  }
+  h1 {
+    color: #03506f;
+  }
+  h3 {
+    text-align: center;
+    color: #03506f;
+  }
+  table {
+    margin-left: auto;
+    margin-right: auto;
+  }
